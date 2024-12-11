@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @whatdaahaael
+- 👋 Hi, I’m Sujan
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning C Programming and Unix
+- 🌱 I’m currently learning DSA and Java
 
 <!---
 whatdaahaael/whatdaahaael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
